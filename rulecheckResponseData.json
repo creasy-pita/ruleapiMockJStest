@@ -1,0 +1,1641 @@
+{
+  "obj": {
+    "姓名": "hello",
+    "field1": "aa",
+    "name": "102",
+    "boys": [
+      {
+        "scoreReports": [
+          {
+            "average": 14,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          },
+          {
+            "average": 6,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 14,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          },
+          {
+            "average": 5,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          }
+        ],
+        "name": "Tom",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 13,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 16,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          },
+          {
+            "average": 9,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 5,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 19,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": false
+          }
+        ],
+        "name": "piece",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 11,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          },
+          {
+            "average": 7,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          }
+        ],
+        "name": "Tom",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 13,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": true
+          },
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": false
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 19,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": false
+          },
+          {
+            "average": 15,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          }
+        ],
+        "name": "john",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 15,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 19,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": false
+          },
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          }
+        ],
+        "name": "john",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          },
+          {
+            "average": 14,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": false
+          }
+        ],
+        "name": "Tom",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          },
+          {
+            "average": 20,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          }
+        ],
+        "name": "john",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 14,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          },
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": true
+          }
+        ],
+        "name": "john",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 8,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          },
+          {
+            "average": 19,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 15,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 16,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 10,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": true
+          },
+          {
+            "average": 8,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": false
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 10,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 9,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": false
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "gym",
+            "IsPublic": true
+          },
+          {
+            "average": 9,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": true
+          }
+        ],
+        "name": "john",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 17,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 13,
+            "score": 66,
+            "subject": "math",
+            "IsPublic": false
+          }
+        ],
+        "name": "john",
+        "age": 23
+      },
+      {
+        "scoreReports": [
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          },
+          {
+            "average": 18,
+            "score": 66,
+            "subject": "english",
+            "IsPublic": false
+          }
+        ],
+        "name": "creasypita",
+        "age": 23
+      }
+    ],
+    "schoolobj1": {
+      "schoolobj11": {
+        "field1": "aa",
+        "field2": "aa"
+      }
+    },
+    "age": 4
+  },
+  "assertResult": false,
+  "failAssertList": [
+    {
+      "bsm": 10738,
+      "gzmc": "普通实体字段不为空测试",
+      "assertBase": true,
+      "ruleMessage": "",
+      "jylx": "qjy",
+      "valuesForKeysList": []
+    },
+    {
+      "bsm": 10739,
+      "gzmc": "实体字段复合表达式测试",
+      "assertBase": true,
+      "ruleMessage": "",
+      "jylx": "qjy",
+      "valuesForKeysList": [
+        {
+          "boys.scoreReports": [
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 6,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 5,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 13,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 16,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 9,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 5,
+              "name": "102",
+              "boys.name": "piece",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "piece",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 11,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 7,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 15,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 15,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 20,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 8,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 15,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 16,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 10,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 8,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 10,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 9,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 17,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 13,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bsm": 10747,
+      "gzmc": "同一关联路径下的实体复合表达式",
+      "assertBase": true,
+      "ruleMessage": "",
+      "jylx": "qjy",
+      "valuesForKeysList": [
+        {
+          "boys.scoreReports": [
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 6,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 5,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 13,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 16,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 9,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 5,
+              "name": "102",
+              "boys.name": "piece",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "piece",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 11,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 7,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 13,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 15,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 15,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 20,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 14,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 8,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 19,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 15,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 16,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 10,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 8,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 10,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 9,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "gym",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 9,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 17,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "math",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 13,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.scoreReports.subject": "english",
+              "boys.scoreReports.score": 66,
+              "boys.age": 23,
+              "boys.scoreReports.average": 18,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "bsm": 10748,
+      "gzmc": "大对象单个集合属性比较",
+      "assertBase": true,
+      "ruleMessage": "",
+      "jylx": "qjy",
+      "valuesForKeysList": [
+        {
+          "boys": [
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "piece",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "Tom",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "john",
+              "age": 4
+            },
+            {
+              "name": "102",
+              "age": 4
+            },
+            {
+              "boys.age": 23,
+              "name": "102",
+              "boys.name": "creasypita",
+              "age": 4
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "successAssertList": [],
+  "invalidAssertList": []
+}

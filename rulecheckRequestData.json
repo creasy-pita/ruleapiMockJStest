@@ -1,0 +1,399 @@
+{
+  "assertEntry": {
+    "10738": true,
+    "10739": true,
+    "10747": true,
+    "10748": true
+  },
+  "obj": {
+    "boys": [
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 14,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 6,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "Tom",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 14,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 5,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 18,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 13,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 16,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 9,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "piece",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 5,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 19,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "Tom",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 11,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 7,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 13,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 18,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "john",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 19,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 15,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 15,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 19,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "john",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 18,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 18,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "Tom",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 18,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 14,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "john",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 18,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 20,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "john",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 14,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 18,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 8,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 19,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 15,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 16,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 10,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 8,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 10,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 9,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "john",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 18,
+            "subject": "gym",
+            "score": 66,
+            "IsPublic": true
+          },
+          {
+            "average": 9,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": true
+          }
+        ]
+      },
+      {
+        "name": "john",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 17,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 13,
+            "subject": "math",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      },
+      {
+        "name": "creasypita",
+        "age": 23,
+        "scoreReports": [
+          {
+            "average": 18,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          },
+          {
+            "average": 18,
+            "subject": "english",
+            "score": 66,
+            "IsPublic": false
+          }
+        ]
+      }
+    ],
+    "姓名": "hello",
+    "field1": "aa",
+    "schoolobj1": {
+      "schoolobj11": {
+        "field1": "aa",
+        "field2": "aa"
+      }
+    },
+    "name": "102",
+    "age": 4
+  },
+  "objKeys": [
+    "name",
+    "age",
+    {
+      "boys.scoreReports": [
+        "subject",
+        "average",
+        "score"
+      ]
+    },
+    {
+      "boys": [
+        "name",
+        "age"
+      ]
+    }
+  ]
+}
